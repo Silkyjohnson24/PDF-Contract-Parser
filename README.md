@@ -1,5 +1,16 @@
 # PDF Contract Parser
 
+# PDF Contract Parser
+
+## What's New in v2
+- Enhanced parsing logic for greater accuracy and efficiency.
+- Improved metrics generation and structured output.
+- Cleaner code structure for easier maintenance and scalability.
+
+## Versions
+- **v1**: Initial implementation for basic contract parsing.
+- **v2**: Improved parsing logic, enhanced features, and better metrics generation.
+
 ## Overview
 A Python script for extracting contract details from PDF files and generating comprehensive metrics.
 
