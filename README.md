@@ -1,7 +1,5 @@
 # PDF Contract Parser
 
-# PDF Contract Parser
-
 ## What's New in v2
 - Enhanced parsing logic for greater accuracy and efficiency.
 - Improved metrics generation and structured output.
